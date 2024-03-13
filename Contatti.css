@@ -8,7 +8,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 334px;
-  background-image: url("images/mc.jpg");
+  background-image: url("/images/mc.jpg");
   background-position: 50% 0%;
 }
 
@@ -68,7 +68,7 @@
 
 .u-section-1 .u-image-2 {
   min-height: 334px;
-  background-image: url("images/CF.png");
+  background-image: url("/images/CF.png");
   background-position: 50% 50%;
 }
 
