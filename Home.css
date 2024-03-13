@@ -28,7 +28,7 @@
 }
 
 .u-section-1 .u-btn-1 {
-  border-style: none none solid;
+  border-style: solid;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
@@ -37,7 +37,7 @@
 }
 
 .u-section-1 .u-btn-2 {
-  border-style: none none solid;
+  border-style: solid;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
@@ -51,7 +51,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 818px;
-  background-image: url("/images/2023-Disco-Plan.png");
+  background-image: url("images/2023-Disco-Plan.png");
   background-position: 50% 50%;
 }
 
